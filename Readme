@@ -1,0 +1,9 @@
+# ClickUp Branch Test
+
+A simple repository for testing GitHub branches linked to ClickUp tasks.
+
+## Run
+python main.py
+
+## Testing
+Create a branch for a ClickUp task, then record the branch name in the GitHub Branch field.
